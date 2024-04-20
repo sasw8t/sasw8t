@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sasw8t
+- 👋 Hi, I’m @Shashwat Tripathi
 - 👀 I’m interested in competitve Coding
 - 🌱 I’m currently learning web dev.
 - 💞️ I’m looking to collaborate on java script.
